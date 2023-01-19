@@ -127,7 +127,8 @@ ENCODER:
 ![output](/truth%20table.png)
 
 DECODER:
- ![output](/decodertt.jpg)
+ 
+![output](/decodertt.jpg)
 
 
 
